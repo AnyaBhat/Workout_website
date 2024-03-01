@@ -4,6 +4,8 @@ performed. Users can add new workouts by inputting the exercise title, load (in 
 button. Each logged workout entry includes details such as the exercise name, load, reps, and the time it was recorded, allowing users to monitor their 
 progress over time. Additionally, the page provides options to delete previously logged workouts, giving users control over their workout history. 
 Overall, the functionality of the page seems to facilitate easy tracking and management of workout routines.
+
+
 This repository is meant for learning purpose and there are no intentions of plagiarism.
 
 
